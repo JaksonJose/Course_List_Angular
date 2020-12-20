@@ -1,7 +1,7 @@
 # Course_List_Angular
 ***This is a small project for learning the Angular Framework basics.***
 
-<img src="C:\Users\CAS\Desktop\Bootcamp\angular\courselist.png" style="zoom:100%;" />
+<img src=".\courselist.png" style="zoom:100%;" />
 
 The Introduction to Angular course released by Digital Innovation one's bootscamp aimed to show out the basics concepts of Angular.
 
