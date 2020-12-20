@@ -1,7 +1,7 @@
-# <div align="center">Course_List_Angular
-***This is a small project for learning the Angular Framework basics.***
+<h1 align="center">Course_List_Angular</h1>
+<h3 align="center">This is a small project for learning the Angular Framework basics.</h3>
 
-<img src=".\courselist.png" style="zoom:100%;" /></div>
+<div align="center"><img src=".\courselist.png" style="zoom:100%;" /></div>
 
 The Introduction to Angular course released by Digital Innovation one's bootscamp aimed to show out the basics concepts of Angular.
 
